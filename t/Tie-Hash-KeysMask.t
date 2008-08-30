@@ -1,5 +1,5 @@
 
-use Test::More tests => 20;
+use Test::More tests => 14;
 BEGIN {
     use_ok('Tie::Hash::KeysMask');
     };
